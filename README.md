@@ -1,16 +1,12 @@
 # cozy_app
 
-A new Flutter project.
+Cozy App With Flutter
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Page          | Preview                   |
+| ------------- | -------------             |
+| Splash Screen  | <img src="assets/images/preview_splash.jpeg" height="250" />  |
+| Home Page | <img src="assets/images/preview_home.jpeg" height="250" />  |
+| Detail Page | <img src="assets/images/preview_detail.jpeg" height="250" />  |
+| Error Page  | <img src="assets/images/preview_error.jpeg" height="250" />  |
