@@ -1,6 +1,6 @@
-# cozy_app
+# Kos Kosan App
 
-Cozy App With Flutter
+Kos Kosan App With Flutter
 
 ## Preview
 
