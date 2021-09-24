@@ -1,6 +1,12 @@
 # Kos Kosan App
 
+<img src="assets/images/logo.png" height="50" />
+
 Kos Kosan App With Flutter
+
+
+## API
+https://bwa-cozy.herokuapp.com/recommended-spaces
 
 ## Preview
 
